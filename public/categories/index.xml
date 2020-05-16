@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Diamond of Dew</title>
+    <link>https://example.com/categories/</link>
+    <description>Recent content in Categories on Diamond of Dew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sunday</title>
+      <link>https://example.com/categories/sunday/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/sunday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saturday</title>
+      <link>https://example.com/categories/saturday/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/saturday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friday</title>
+      <link>https://example.com/categories/friday/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/friday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thursday</title>
+      <link>https://example.com/categories/thursday/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/thursday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wednesday</title>
+      <link>https://example.com/categories/wednesday/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/wednesday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuesday</title>
+      <link>https://example.com/categories/tuesday/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/tuesday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monday</title>
+      <link>https://example.com/categories/monday/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/monday/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
